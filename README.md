@@ -115,3 +115,6 @@ As you can see in `package.json`, this does two things:
   [CLI]: https://www.w3schools.com/whatis/whatis_cli.asp
   [create-near-app]: https://github.com/near/create-near-app
   [gh-pages]: https://github.com/tschaub/gh-pages
+
+Note: HOW TO RUN LOCALHOST
+yarn && alias near=./node_modules/near-cli/bin/near && yarn dev
