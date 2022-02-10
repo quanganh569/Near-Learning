@@ -17,9 +17,7 @@ export default function Messages({ messages }) {
               <p className="card-text">
                 Lời nhắn : <strong>{message.text}</strong>
               </p>
-              <a href="#" className="btn btn-primary">
-                Go somewhere
-              </a>
+             
             </div>
           </div>
         </div>
